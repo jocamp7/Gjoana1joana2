@@ -10,6 +10,8 @@ public class HolaMundo {
 		
 		System.out.println("Quiero morir");
 		
+		System.out.println("sigo queriendo morir");
+		
 	
 
 	}
