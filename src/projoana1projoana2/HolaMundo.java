@@ -8,7 +8,7 @@ public class HolaMundo {
 		System.out.println("Holaa Mundo");
 		System.out.println("Adios Mundo");
 		
-		System.out.println("Quiero morirme");
+		System.out.println("Quiero morir");
 		
 	
 
