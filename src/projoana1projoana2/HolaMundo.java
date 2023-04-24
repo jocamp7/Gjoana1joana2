@@ -5,8 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Holaa Mundo");
-		System.out.println("Adios Mundo");
+		System.out.println("aaah");
 		
 		System.out.println("Quiero morir");
 		
