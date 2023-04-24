@@ -8,9 +8,7 @@ public class HolaMundo {
 		System.out.println("Holaa Mundo");
 		System.out.println("Adios Mundo");
 		
-		System.out.println("Quiero morir");
-		
-		System.out.println("sigo queriendo morir");
+		System.out.println("patata");
 		
 	
 
